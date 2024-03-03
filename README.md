@@ -1,4 +1,4 @@
 Proyecto Calculadora 
 
 Participantes : Rodrigo Paz 
-                Claudia Vargas.
+                - Claudia Vargas.
