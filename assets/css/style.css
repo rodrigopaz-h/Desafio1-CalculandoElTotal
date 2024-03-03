@@ -32,15 +32,6 @@ body {
     background-position: center ;
 }
 
-/* .card input {
-    width: 80%;
-    border-radius: 5px;
-    border: none;
-    padding: 3px 10px
-} */
-
-
-
 .card button {
     background: #e2a30b;
     color: white;
@@ -53,16 +44,3 @@ body {
     padding: 35px;
     box-sizing: border-box;
 }
-
-/* .total-section .color {
-    display: flex;
-} */
-
-/* .total-section .color div{
-    margin-left: 10px;
-    width: 20px;
-    height: 20px;
-    background-color: rgb(0, 0, 0);
-    border-radius: 50%;
-    border: solid 1px;
-} */
